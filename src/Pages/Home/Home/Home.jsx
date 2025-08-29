@@ -11,6 +11,7 @@ import Testimonials from '../Testimonials/Testimonials'
 const Home = () => {
   return (
     <div>
+      <title>Bristo Boss | Home</title>
       <Banner></Banner>
       <Category></Category>
       <BistroBoss></BistroBoss>
